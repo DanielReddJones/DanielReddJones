@@ -5,7 +5,7 @@
 
 <li> <b>What I am learning right now:</b> I am currently trying to learn older languages such as C. When I get comfortable with using C often, I will switch my focus to x86 assembly. Its old, but nerdy! </li>
 
-<li> <b>What I am working on:</b> Right now I am working on June Editor. My version of the Kilo Editor tutorial project. </li>
+<li> <b>What I am working on:</b> Right now I am working on Bibliofile. A command-line ebook reader. </li>
 
 <li> <b>How to reach me:</b> danielreddjones@gmail.com </li>
 </ul>
