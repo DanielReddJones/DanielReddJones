@@ -10,4 +10,4 @@
 <li> <b>How to reach me:</b> danielreddjones@protonmail.com</li>
 </ul>
 
- 🤓 I love nerds and all things nerdy, so feel free to contact me via email or visit my blog at https://whoisthisjoker.com!
+ 🤓 I love nerds and all things nerdy, so feel free to contact me via email or visit my blog at https://www.whoisthisjoker.com!
